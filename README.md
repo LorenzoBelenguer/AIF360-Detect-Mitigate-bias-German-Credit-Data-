@@ -1,6 +1,6 @@
 # AIF360-Detect-Mitigate-bias-German-Credit-Data-
 AIF360 Detect/Mitigate bias in the German Credit Dataset
-This dataset, German Credit Data, classifies people described by a set of attributes as good or bad credit risks. File used is german.data consisting of 1000 instances and 20 features. Detailed description of the dataset is provided in german.doc. https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
+This dataset classifies people described by a set of attributes as good or bad credit risks. File used is german.data consisting of 1000 instances and 20 features. Detailed description of the dataset is provided in german.doc. https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 
 The AI Fairness 360 toolkit is an extensible open-source library containing techniques developed by the research community to help detect and mitigate bias in machine learning models throughout the AI application lifecycle. AI Fairness 360 package is available in both Python and R.
 
